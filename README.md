@@ -8,3 +8,14 @@ pip install fastapi
 
 pip install uvicorn
 
+uvicorn helloworld:app
+
+
+
+
+
+
+
+
+
+Instalar postman e insominia
