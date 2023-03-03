@@ -1,8 +1,8 @@
 # 6periodo 
 
-python -m venv env
+python -m venv env // EM CASA NAO PRECISA
 
-.\env\Scripts\activate
+.\env\Scripts\activate // EM CASA NAO PRECISA
 
 env\Scripts\activate
 
