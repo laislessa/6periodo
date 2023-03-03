@@ -15,7 +15,7 @@ uvicorn helloworld:app
 
 
 
-
+uvicorn main:app --reload  (PRA SALVAR COM CTRL + S
 
 
 
