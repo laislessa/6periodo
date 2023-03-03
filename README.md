@@ -21,3 +21,6 @@ uvicorn main:app --reload  (PRA SALVAR COM CTRL + S
 
 
 Instalar postman e insominia
+
+INSTALAR EXTENSAO NO VS CODE Thunder Client
+Monokai Charcoal high contrast
