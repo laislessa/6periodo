@@ -26,4 +26,6 @@ INSTALAR EXTENSAO NO VS CODE Thunder Client<br>
 Monokai Charcoal high contrast
 
 Dracula At Night<br>
-Dark-Dracula Theme
+Dark-Dracula Theme<br>
+IntelliCode
+
