@@ -22,7 +22,7 @@ uvicorn main:app --reload  (PRA SALVAR COM CTRL + S
 
 Instalar postman e insominia
 
-INSTALAR EXTENSAO NO VS CODE Thunder Client
+INSTALAR EXTENSAO NO VS CODE Thunder Client<br>
 Monokai Charcoal high contrast
 
 Dracula At Night<br>
